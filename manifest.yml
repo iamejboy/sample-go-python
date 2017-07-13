@@ -1,0 +1,9 @@
+applications:
+- name: go-python-app
+  memory: 64M
+  instances: 1
+  buildpack: https://github.com/iamejboy/multi-buildpack
+  domains:
+  - <insert domain>
+  stack: <stack>
+

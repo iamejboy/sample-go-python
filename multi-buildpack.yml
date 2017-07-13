@@ -1,0 +1,3 @@
+buildpacks:
+  - https://github.com/rakutentech/python-buildpack
+  - https://github.com/rakutentech/go-buildpack
